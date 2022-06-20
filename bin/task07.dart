@@ -9,7 +9,7 @@ Returns:
     return answer
 */
 int func(int number) {
-  return (number~/10)%2;
+  return (number~/10)%6;
 }
 void main(){
 
