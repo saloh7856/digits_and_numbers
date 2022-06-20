@@ -12,5 +12,6 @@ int func(int number) {
   return (number~/10);
 }
 void main(){
+  
   print(func(43));
 }
