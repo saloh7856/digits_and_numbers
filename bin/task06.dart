@@ -9,9 +9,9 @@
       return answer
   */
 int func(int number) {
-  return (number~/2);
+  return (number~/10);
 }
 void main(){
 
-  print(func(72));
+  print(func(26));
 }
