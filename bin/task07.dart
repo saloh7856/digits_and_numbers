@@ -8,4 +8,10 @@ Args:
 Returns:
     return answer
 */
-void main() {}
+int func(int number) {
+  return (number~/10)%2;
+}
+void main(){
+
+  print(func(72));
+}
